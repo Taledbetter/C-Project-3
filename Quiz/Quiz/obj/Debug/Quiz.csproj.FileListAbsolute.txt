@@ -1,0 +1,10 @@
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\obj\Debug\Quiz.Form1.resources
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\tiffa\OneDrive\Desktop\C# 2023\Project2\LedbetterTiffany_Project2\Quiz\Quiz\obj\Debug\Quiz.pdb
